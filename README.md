@@ -1,2 +1,10 @@
-# Bank-Management-System-Python
-A structured, modular Bank Management System in Python demonstrating object-oriented programming, file handling, and real-world banking operations.
+Bank-Management-System-Python/
+│
+├── src/
+│   ├── bank_system.py
+│   └── account.py
+│
+├── data/
+│   └── accounts.txt
+│
+└── README.md
